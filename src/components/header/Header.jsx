@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState } from 'react';
 import "./header.css";
 
 const Header = () => {
@@ -12,31 +12,31 @@ const Header = () => {
                     <ul className="nav__list grid">
                         <li className="nav__item">
                             <a href="#home" className="nav__link active-link">
-                                <i className="uil uil-estate nav__icon"></i> Home
+                                <i class="uil uil-estate nav__icon"></i> Home
                             </a>
                         </li>
 
                         <li className="nav__item">
                             <a href="#about" className="nav__link">
-                                <i className="uil uil-user nav__icon"></i> About
+                                <i class="uil uil-user nav__icon"></i> About
                             </a>
                         </li>
 
                         <li className="nav__item">
                             <a href="#projects" className="nav__link">
-                                <i className="uil uil-scenery nav__icon"></i> projects
+                                <i class="uil uil-scenery nav__icon"></i> projects
                             </a>
                         </li>
 
                         <li className="nav__item">
                             <a href="#skills" className="nav__link">
-                                <i className="uil uil-file-alt nav__icon"></i> Skills
+                                <i class="uil uil-file-alt nav__icon"></i> Skills
                             </a>
                         </li>
 
                         <li className="nav__item">
                             <a href="#experince" className="nav__link">
-                                <i className="uil uil-briefcase-alt nav__icon"></i> Experince
+                                <i class="uil uil-briefcase-alt nav__icon"></i> Experince
                             </a>
                         </li>
 
@@ -47,15 +47,15 @@ const Header = () => {
                         </li>
                     </ul>
                     
-                    <i className="uil uil-times nav__close" onClick={() => showMenu(!Toggle)}></i> {/* class */}
+                    <i class="uil uil-times nav__close" onClick={() => showMenu(!Toggle)}></i>
                 </div>
 
                 <div className="nav__toggle" onClick={() => showMenu(!Toggle)}>
-                    <i className="uil uil-apps"></i>  {/* class */}
+                    <i class="uil uil-apps"></i>
                 </div>
             </nav>
         </header>
-    );
-};
+    )
+}
 
 export default Header
