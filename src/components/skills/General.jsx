@@ -20,8 +20,8 @@ const General = () => {
                         <i class='bx bx-badge-check'></i>
 
                         <div>
-                            <h3 className="skills__name"></h3>
-                            <span className="skills__level"></span>
+                            <h3 className="skills__name">Unity</h3>
+                            <span className="skills__level">Basic</span>
                         </div>
                     </div>
 
@@ -50,8 +50,8 @@ const General = () => {
                         <i class='bx bx-badge-check'></i>
 
                         <div>
-                            <h3 className="skills__name"></h3>
-                            <span className="skills__level"></span>
+                            <h3 className="skills__name">OOP</h3>
+                            <span className="skills__level">Intermediate</span>
                         </div>
                     </div>
 
