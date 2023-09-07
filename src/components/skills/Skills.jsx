@@ -1,6 +1,7 @@
 import React from 'react'
 import "./skills.css"
 import TechnicalSkills from './TechnicalSkills'
+import General from './General'
 
 
 const Skills = () => {
@@ -11,6 +12,7 @@ const Skills = () => {
 
             <div className="skills__container container grid">
                 <TechnicalSkills />
+                <General />
             </div>
         </section>
     )
