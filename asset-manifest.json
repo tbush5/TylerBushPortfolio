@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/TylerBushPortfolio/static/css/main.78c15b3d.css",
+    "main.js": "/TylerBushPortfolio/static/js/main.af10a17c.js",
+    "static/js/787.1ed0c42c.chunk.js": "/TylerBushPortfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/IMG_2339.jpeg": "/TylerBushPortfolio/static/media/IMG_2339.1e919e7ca15acec37437.jpeg",
+    "static/media/Tyler Bush Resume.pdf": "/TylerBushPortfolio/static/media/Tyler Bush Resume.9d6c7b4762c8bb273daf.pdf",
+    "static/media/sluLogo.png": "/TylerBushPortfolio/static/media/sluLogo.dacd0d152fbb2aafa097.png",
+    "static/media/greyEagleLogo.jpeg": "/TylerBushPortfolio/static/media/greyEagleLogo.df61057c7e0833ca6160.jpeg",
+    "index.html": "/TylerBushPortfolio/index.html",
+    "main.78c15b3d.css.map": "/TylerBushPortfolio/static/css/main.78c15b3d.css.map",
+    "main.af10a17c.js.map": "/TylerBushPortfolio/static/js/main.af10a17c.js.map",
+    "787.1ed0c42c.chunk.js.map": "/TylerBushPortfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78c15b3d.css",
+    "static/js/main.af10a17c.js"
+  ]
+}
