@@ -64,8 +64,6 @@
 
 .contact__form-button {
   margin-top: var(--mb-2);
-  margin-bottom: 2rem;
-  float: right;
 }
 
 @media screen and (max-width: 576px) {

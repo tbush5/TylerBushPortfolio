@@ -62,6 +62,7 @@ const Contact = () => {
                 placeholder="Write your message"
               ></textarea>
             </div>
+
             <button className="contact__form-button button button--flex">
               Send Message
               <svg
