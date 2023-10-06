@@ -16,7 +16,7 @@ const About = () => {
                 <div className="about__data">
                     <Info />
 
-                    <p className="about__description"> Description </p>
+                    <p className="about__description"> Hi, I am Tyler Bush, a recent graduate pursuing a position as a front-end software developer. Front-end development allows me to combine my technical and problem-solving abilities with my creative skills to make engaging, user-friendly web applications. I am passionate about continually expanding my technical skillset and well-being through learning and exercise. I enjoy reading, working out, walking my dog, and playing soccer with friends.  </p>
 
                     <a download="" href={Resume} className="button button--flex">
                         Download Resume

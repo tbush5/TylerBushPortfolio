@@ -7,16 +7,16 @@ const Info = () => {
                 <div className="about__icon">
                     <i class="uil uil-award"></i>
                 </div>
-                <h3 className="about__title">Entreprenuer</h3>
-                <span className="about__subtitle">Self-Starter/ Self-Learner</span>
+                <h3 className="about__title">Hard Worker</h3>
+                <span className="about__subtitle">Self Motivated</span>
             </div>
 
             <div className="about__box">
                 <div className="about__icon">
                     <i class="uil uil-smile"></i>
                 </div>
-                <h3 className="about__title">Customer Service</h3>
-                <span className="about__subtitle">6+ years of experience</span>
+                <h3 className="about__title">Friendly</h3>
+                <span className="about__subtitle">Team Player</span>
             </div>
 
             <div className="about__box">
